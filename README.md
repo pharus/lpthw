@@ -21,5 +21,11 @@ Done, so far:
 - Exercise 8: Printing, Printing
 - Exercise 9: Printing, Printing, Printing
 - Exercise 10: What Was That?
+- Exercise 11: Asking Questions
+- Exercise 12: Prompting People
+- Exercise 13: Parameters, Unpacking, Variables
+- Exercise 14: Prompting and Passing
+- Exercise 15: Reading Files
+- Exercise 16: Reading and Writing Files
 
 
