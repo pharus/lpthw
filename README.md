@@ -1,3 +1,4 @@
+
 lpthw
 =====
 
@@ -6,9 +7,19 @@ progress throughout the book, and document it in this repository.
 
 The book is "Learn Python The Hard Way"
 
-Solved First exercise completely, yet will type and understand others first
+Solved exercise 1, and 2 completely, yet will type and understand others first
 before doing it all
 
 Done, so far:
 - Exercise 1: A Good First Program
+- Exercise 2: Comments and Pound Characters
+- Exercise 3: Numbers and Math
+- Exercise 4: Variables and Names
+- Exercise 5: More Variables and Printing
+- Exercise 6: Strings and Text
+- Exercise 7: More Printing
+- Exercise 8: Printing, Printing
+- Exercise 9: Printing, Printing, Printing
+- Exercise 10: What Was That?
+
 
